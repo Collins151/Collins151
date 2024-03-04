@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Collins151
-- 👀 I’m interested in hardware development.
-- 🌱 I’m currently learning ESP 32 using Arduino IDE.
+- 👀 I’m interested in software development.
+- 🌱 I’m currently learning web development using HTML, CSS, JavaScript and Python.
 - 💞️ I’m looking to collaborate on suitable projects especially in healthcare.
 - 📫 How to reach me collinsmaina151@gmail.com
 
